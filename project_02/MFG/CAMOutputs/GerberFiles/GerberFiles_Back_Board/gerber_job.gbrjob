@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-12-19T21:56:32Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.99,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "Etch_a_Sketch_Back"
+        },
+        "Owner": "Alexis Leyow <asl15@rice.edu>",
+        "Size": {
+            "X": 137.16,
+            "Y": 101.6
+        }
+    }
+}
